@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="temperature_title">Temperature (Celsius):</string>
+    <string name="wind_title">Wind (m/s):</string>
+    <string name="time_title">Weather time:</string>
+    <string name="time_ui_title">Update time:</string>
+</resources>
